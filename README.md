@@ -4,10 +4,14 @@ The Cab Booking System is a web based platform designed to make booking and mana
 
 <img width="4347" height="70" alt="image" src="https://github.com/user-attachments/assets/6c2dca70-7d8d-4556-8719-62b957734342" />
 
-#Objective
+# Objective
 
 1. To a user-friendly platform for booking and tracking rides.
 2. To Improve efficiency and transparency in cab services.
 3. To Enable drivers to manage ride requests and availability easily.
 
-<img width="1018" height="172" alt="image" src="https://github.com/user-attachments/assets/ac344cf4-f326-4faa-b76a-7a37278d3709" />
+# Feature 
+
+
+
+
