@@ -1,6 +1,6 @@
 # About Online_Cab_Booking_System
 
-Online Cab booking system using HTML, CSS, JavaScript and PHP with CRUD operation.
+Online Cab booking system with Passenger, Driver, and Admin panel with CRUD operation
 
 The Cab Booking System is a web based platform designed to make booking and managing cab rides easy for passengers and drivers. It allows passengers to book rides easily and view ride history, while drivers can accept requests and manage their availability. The system focuses on providing a user-friendly experience
 
@@ -17,6 +17,35 @@ The Cab Booking System is a web based platform designed to make booking and mana
 3. Enable drivers to manage requests, schedules, and availability easily..
 4. Improve efficiency, reliability, and transparency in cab services.
 5. Help administrators monitor and manage the system effectively.
+
+# Technologies
+HTML, CSS, Tailwindcss, JavaScript, PHP ,MYSQL
+
+# ScreenShots
+1. # UI 
+<img width="1896" height="863" alt="image" src="https://github.com/user-attachments/assets/61460d81-f6bc-42aa-8d3e-efbc477e37ff" />
+<img width="1898" height="872" alt="image" src="https://github.com/user-attachments/assets/60451b11-2385-4745-9eb4-71f923a5530d" />
+<img width="1899" height="868" alt="image" src="https://github.com/user-attachments/assets/1cf8aee5-2252-4fb0-99f9-0865ddbfb824" />
+
+2. # Login / Register
+<img width="1898" height="864" alt="image" src="https://github.com/user-attachments/assets/4395ff40-2219-4a1d-8e84-61fb0b130db8" />
+<img width="1899" height="871" alt="image" src="https://github.com/user-attachments/assets/540c43e6-1e34-4b84-957b-8f9662b30ef6" />
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/128b301f-891c-4f3f-b944-46d9dc7e21a3" />
+
+3. # Admin panel
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/a69fe563-49dc-41c5-bbb2-534d09ad5039" />
+<img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/29a28c20-c4ea-425a-bf06-d4bbbc9282fd" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
