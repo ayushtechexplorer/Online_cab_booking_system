@@ -1,3 +1,13 @@
-About Online_Cab_Booking_System
+# About Online_Cab_Booking_System
 
-The Cab Booking System is a web based platform designed to make booking and managing cab rides easy for passengers and drivers. It allows passengers to book rides easily and view ride history, while drivers can accept requests and manage their availability. The system focuses on providing a user-friendly experience <img width="4347" height="70" alt="image" src="https://github.com/user-attachments/assets/6c2dca70-7d8d-4556-8719-62b957734342" />
+The Cab Booking System is a web based platform designed to make booking and managing cab rides easy for passengers and drivers. It allows passengers to book rides easily and view ride history, while drivers can accept requests and manage their availability. The system focuses on providing a user-friendly experience
+
+<img width="4347" height="70" alt="image" src="https://github.com/user-attachments/assets/6c2dca70-7d8d-4556-8719-62b957734342" />
+
+#Objective
+
+1. To a user-friendly platform for booking and tracking rides.
+2. To Improve efficiency and transparency in cab services.
+3. To Enable drivers to manage ride requests and availability easily.
+
+<img width="1018" height="172" alt="image" src="https://github.com/user-attachments/assets/ac344cf4-f326-4faa-b76a-7a37278d3709" />
