@@ -1,0 +1,349 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> TAXI BOOKING SYSTEM</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+        }
+
+        .navbar {
+            background-color: #cb9100;
+            padding-left: 20px;
+            padding-right: 20px;
+            height: 90px;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 1;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .navdiv {
+            display: flex;
+            gap: 160px;
+            color: rgb(0, 0, 0);
+            font-weight: bold;
+            align-items: center;
+            font-size: 25px;
+            position: absolute;
+        }
+
+        .logo img {
+            width: 120px;
+            height: 70px;
+        }
+
+
+        
+        
+
+        .bg img {
+            width: 100%;
+            height: 800px;
+        }
+
+        #about-us {
+            padding: 20px 40px;
+            background-color: #675e52;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            height: 700px;
+            width: 50%;
+        }
+
+        #about-us h2 {
+            text-align: center;
+            font-size: 36px;
+            color: #ffffff;
+            margin-bottom: 20px;
+            background-color: #83500a;
+        }
+
+        #about-us p {
+            text-align: justify;
+            font-size: 16.5px;
+            line-height: 1.8;
+            color: #ffffff;
+        }
+
+        .wholeus {
+            display: flex;
+            background-color: #64ecbc;
+            height: 700px;
+            position: relative;
+            bottom: 3px;
+        }
+
+        .bg2 img {
+            height: 700px;
+        }
+
+        .wholecontact {
+            position: relative;
+            bottom: 2px;
+           
+            
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        
+
+        .team {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .team-member {
+            background: #ff9704;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 10px 9px rgba(148, 26, 26, 0.1);
+            text-align: center;
+        }
+        #con{
+            font-size: 50px;
+        }
+
+        .team-member h2 {
+            margin: 10px 0;
+            font-size: 28px;
+            color: #0673e7;
+        }
+
+        .team-member p {
+            margin: 5px 0;
+            font-size: 20px;
+            color: #000000;
+        }
+
+        .footer {
+            position: relative;
+            background-color: #ff9100;
+            color: #000000;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .footer-section {
+            margin-bottom: 15px;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .footer a {
+            color: #00bcd4;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+        
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        .parallax-container {
+            height: 100vh;
+            overflow: hidden;
+            position: relative;
+        }
+        .parallax-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            
+        }
+        .parallax-content {
+            position: relative;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            z-index: 1;
+        }
+        .text-border {
+            /* Adds a black outline around each letter */
+            text-shadow: 
+                -1px -1px 0 #000,  
+                 1px -1px 0 #000,  
+                -1px  1px 0 #000,  
+                 1px  1px 0 #000;
+        }
+        
+        .social-icons {
+  display: flex;
+  justify-content: center; /* Center items horizontally */
+  align-items: center; /* Center items vertically */
+  gap: 10px; /* Optional: Adds spacing between icons */
+}
+
+.social-icons a {
+  display: flex;
+  align-items: center;
+}
+
+.social-icons img {
+  width: 24px; /* Adjust size of icons */
+  height: 24px; /* Adjust size of icons */
+}
+
+    </style>
+</head>
+<body class="font-sans">
+
+    
+    
+        
+        
+        <div class="navbar">
+            <div class="navdiv">
+                <div class="logo">
+                  <p id="logoname">ROAD</p>
+                 
+                  <a href="home.html"><img src="https://booktaxi.co.il/wp-content/uploads/2017/05/car-big-2.png" >
+                    
+                  </div>
+                  
+                    <a href="#contact">Support</a>
+                    <a href="#about-us" id="about-us-link">About Us</a>
+                    <a href="customer/register_customer.php">Book a cab</a>
+            
+                
+    
+       </div>
+       
+    </div>
+    <section class="parallax-container">
+            <img src="https://i.ibb.co/mcQWyML/Gemini-Generated-Image-e5j8bze5j8bze5j8-1.jpg" alt="Taxi background" class="parallax-image">
+            <div class="parallax-content">
+                <div class="bg-gray-900 bg-opacity-80 p-8 rounded-lg shadow-lg max-w-2xl mx-auto">
+                    <h2 class="text-6xl font-bold mb-4 text-yellow-400" style="font-family: 'Racing Sans One', cursive; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">We Go the<br>Extra Mile for You</h2>
+                    <p class="text-xl mb-2 text-gray-300" style="font-family: 'Poppins', sans-serif;">On the move? We're here for you.</p>
+                    <p class="text-xl text-gray-300" style="font-family: 'Poppins', sans-serif;">Reliable rides, anytime, anywhere.</p>
+                    
+                    <!-- Register/Login Button -->
+                    <div class="mt-6">
+                        <a href="../taxi-booking-system-main/second.html" class="bg-yellow-500 hover:bg-yellow-600 text-gray-900 font-bold py-2 px-6 rounded-full text-lg" style="font-family: 'Poppins', sans-serif;">Register</a>
+                        <a href="../taxi-booking-system-main/first.html" class="ml-4 bg-gray-700 hover:bg-gray-600 text-white font-bold py-2 px-6 rounded-full text-lg" style="font-family: 'Poppins', sans-serif;">Login</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+    <div class="wholeus">
+    <section id="about-us">
+      <h2 style="text-align: center;">About Us</h2>
+      <Br>
+      <p> Welcome to Road, your reliable partner for seamless and convenient cab booking. At Road, we strive to make travel easy, affordable, and safe for everyone. Whether you're looking for a quick ride across the city or a comfortable journey to your destination, our platform connects you with experienced drivers and a range of vehicles to meet your needs.<br>
+    
+        Our mission is to provide hassle-free transportation that fits into your busy lifestyle. With just a few clicks, you can book a ride, track your driver, and enjoy a smooth experience from start to finish. We focus on customer satisfaction, ensuring that every ride is comfortable and secure.<br>
+        
+        Why Choose Road?<br>
+        
+        1) Convenient Booking: Quickly book a ride through our easy-to-use website.<br>
+        2) Safe and Reliable Drivers: Our drivers are carefully vetted to ensure a safe and pleasant journey.<Br>
+        3) Affordable Prices: Get great value for your money with competitive rates.<br>
+        4) 24/7 Service: Whether it's day or night, we're always ready to serve you.<br>
+        Join us at Road for your next ride and experience a new way of traveling!</p>
+    
+    
+    
+    </section>
+    <div class="bg2">
+      <img src="https://img.freepik.com/free-photo/about-us-support-help-ask-question-concept_53876-133733.jpg" alt="">
+    </div>
+    </div>
+    
+    <div class="wholecontact">
+      <section id="contact">
+      <div class="container">
+        <h1 id="con">Contact Our Team</h1>
+        <div class="team">
+           
+            <div class="team-member">
+                <h2>Ayush Kharel</h2>
+                <p>Email: ayushkharel234@gmail.com</p>
+                <p>Contact: +977-9800000001</p>
+            </div>
+            
+            <div class="team-member">
+                <h2>Bot 1</h2>
+                <p>Email: Bot1@gmail.com</p>
+                <p>Contact: +977-9800000002</p>
+            </div>
+            
+            <div class="team-member">
+                <h2>Bot 2</h2>
+                <p>Email: Bot2@gmail.com</p>
+                <p>Contact: +977-9800000003</p>
+            </div>
+           
+            <div class="team-member">
+                <h2>Bot 3</h2>
+                <p>Email: Bot 3@gmail.com</p>
+                <p>Contact: +977-9800000004</p>
+            </div>
+        </div>
+    </div>
+    </div>
+    </section>
+    
+    
+      <footer class="footer">
+        <div class="footer-section">
+          <p>&copy; 2024 Cab Booking System. All Rights Reserved.</p>
+        </div>
+        <div class="footer-section">
+          <p>
+            Contact Us: 
+            <a href="mailto:ayushkharel301@gmail.com">ayushkharel301@gmail.com</a> | 
+            Phone: +977 9837463625 [FAKE NUMBER EDIT IT LATER]
+          </p>
+        </div>
+        <div class="footer-section">
+          <p>Follow Us:</p>
+          <div class="social-icons flex">
+           Instagram <a href="https://www.instagram.com/your_instagram_handle" target="_blank">
+              <img src="https://i.ibb.co/9gMRyQh/instagram.png" alt="Instagram" class="w-6 h-6 mr-4"> 
+            </a>
+           Whatsapp <a href="https://api.whatsapp.com/send?phone=your_whatsapp_number" target="_blank" >
+              <img src="https://i.ibb.co/wCvw5Nh/whatsapp-1.png" alt="WhatsApp" class="w-6 h-6 mr-4"> 
+            </a>
+            Mail<a href="mailto:your_email@example.com">
+              <img src="https://i.ibb.co/374dn7f/gmail.png" alt="Email" class="w-6 h-6">
+            </a>
+          </div>
+        </div>
+        
+      </footer>
+ 
+    
+   
+</body>
+</html>
