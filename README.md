@@ -23,29 +23,35 @@ HTML, CSS, Tailwindcss, JavaScript, PHP ,MYSQL
 
 # ScreenShots
 
-1. UI 
+<h1>1. UI </h1>
 
 <img width="1896" height="863" alt="image" src="https://github.com/user-attachments/assets/61460d81-f6bc-42aa-8d3e-efbc477e37ff" />
 <img width="1898" height="872" alt="image" src="https://github.com/user-attachments/assets/60451b11-2385-4745-9eb4-71f923a5530d" />
 <img width="1899" height="868" alt="image" src="https://github.com/user-attachments/assets/1cf8aee5-2252-4fb0-99f9-0865ddbfb824" />
 
-2. Login / Register
+<h1>2. Login / Register</h1>
 
 <img width="1898" height="864" alt="image" src="https://github.com/user-attachments/assets/4395ff40-2219-4a1d-8e84-61fb0b130db8" />
 <img width="1896" height="872" alt="image" src="https://github.com/user-attachments/assets/e7526507-a0c5-4f3f-9b5a-e2e468601d91" />
 <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/128b301f-891c-4f3f-b944-46d9dc7e21a3" />
 
-3. Admin panel //Can edit the password too with edit option
+<h1>3. Admin panel //Can edit the password too with edit option</h1>
 
 <img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/a69fe563-49dc-41c5-bbb2-534d09ad5039" />
 <img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/29a28c20-c4ea-425a-bf06-d4bbbc9282fd" />
 <img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/2e960c98-6dd4-42e5-b73f-cc847b217b54" />
 <img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/97338569-cdc6-4838-8cd1-49aa13b4eb13" />
 
-4. <h1>Customer panel</h1>
+<h1>4. Customer panel</h1>
 
 <img width="1915" height="871" alt="image" src="https://github.com/user-attachments/assets/b0057cac-0b58-4509-9194-487c054dc9d4" />
 <img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/029e153b-c607-4105-bfd0-28db732392a9" />
+
+<h1>5. Driver panel</h1>
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/2e182a81-0adc-4a9c-99ff-7664a4d92844" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/69fcedf4-137a-4327-a5c9-8d39013cdbe8" />
+
+
 
 
 
