@@ -48,7 +48,8 @@ HTML, CSS, Tailwindcss, JavaScript, PHP ,MYSQL
 <img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/029e153b-c607-4105-bfd0-28db732392a9" />
 
 <h1>5. Driver panel</h1>
-<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/2e182a81-0adc-4a9c-99ff-7664a4d92844" />
+
+<img width="1919" height="870" alt="Screenshot 2025-12-23 121715" src="https://github.com/user-attachments/assets/cefc09d2-6add-4b09-867f-deaeb199ca50" />
 <img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/69fcedf4-137a-4327-a5c9-8d39013cdbe8" />
 
 
