@@ -42,6 +42,14 @@ HTML, CSS, Tailwindcss, JavaScript, PHP ,MYSQL
 <img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/2e960c98-6dd4-42e5-b73f-cc847b217b54" />
 <img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/97338569-cdc6-4838-8cd1-49aa13b4eb13" />
 
+4. Customer panel
+
+<img width="1897" height="867" alt="image" src="https://github.com/user-attachments/assets/c72c1079-ed96-4904-8565-6a52fd3a311c" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7def33ff-38fd-4d31-8797-dbd1f986ab32" />
+
+
+
+
 
 
 
